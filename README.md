@@ -1,4 +1,4 @@
-# fntastic-task-electron
+Приложение для Electron написано на Vue + native JS с подключением базы данных firebase Cloud Firestore (юзеры и комнаты хранятся в БД и передаются в приложение, из-за чего при первом запуске может быть некоторая задержка)
 
 ## Project setup
 ```
